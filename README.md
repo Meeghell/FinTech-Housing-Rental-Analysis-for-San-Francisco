@@ -1,2 +1,3 @@
-# FinTech-Housing-Rental-Analysis-for-San-Francisco
-UM FinTech Module 6 Challenge
+# Project Overview
+
+This project involves a detailed analysis of the San Francisco housing rental market. Utilizing data visualization techniques and geospatial analysis, the goal is to identify viable investment opportunities for a proptech company interested in offering a one-click, buy-and-rent service. This analysis is part of a trial to determine the feasibility of expanding this service to other markets.
